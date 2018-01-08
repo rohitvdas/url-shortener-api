@@ -1,0 +1,18 @@
+{
+  "name": "shortenerAPI",
+  "version": "1.0.0",
+  "description": "URL Shortener API",
+  "main": "api.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "express-useragent": "^1.0.8",
+    "sqlite3": "^3.1.13"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node api.js"
+  },
+  "author": "Rohit Das",
+  "license": "ISC"
+}
